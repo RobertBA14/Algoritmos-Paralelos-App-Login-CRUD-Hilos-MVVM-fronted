@@ -1,0 +1,1 @@
+# Algoritmos-Paralelos-App-Login-CRUD-Hilos-MVVM-fronted
